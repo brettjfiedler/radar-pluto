@@ -1,4 +1,4 @@
-.# README for radar-pluto
+# README for radar-pluto
 The dev container Dockerfile is adapted from adapteVK6FLAB's pluto adaptation of 
 [VK6FLAB/dump1090](https://github.com/vk6flab/dump1090)
 
