@@ -11,6 +11,9 @@ the sysroot attached to the dev container must be updated to match the firmware
 for your pluto device. Firmware releases can be found here:
 [sysroot and firmware binaries](https://github.com/analogdevicesinc/plutosdr-fw/releases/)
 
+## Receiver Branch
+
+The first goal of this branch is to enable a CMake build system. 
 
 ## Building the app
 
@@ -23,6 +26,7 @@ The dev container will compile a binary application using linaru arm compiler
 and copy it to a device connected @ 'pluto.local'. (root@pluto.local:/root/application)
 
 ssh into the pluto and run the application.
+
 
 ## information on pluto plus firmware
 
